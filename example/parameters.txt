@@ -1,0 +1,4 @@
+clinical_data_file	clinical.csv
+metagenomics_file	metagenomics.csv
+metabolomics_file	metabolomics.csv
+irrelevant_columns	irrelevant.txt

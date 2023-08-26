@@ -1,0 +1,2 @@
+Prefix plugins/PreprocessClinical/example
+Plugin PreprocessClinical inputfile parameters.txt outputfile output.csv

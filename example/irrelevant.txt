@@ -1,0 +1,12 @@
+pid
+Cocaine_Use
+agr_birth_gender
+agr_gender
+race
+eme_hisp_lati
+art_antiviral
+hiv_detected
+filter_.
+Race_Ethnicity
+hiv_vload
+afi_income_1
